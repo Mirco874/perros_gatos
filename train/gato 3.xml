@@ -1,0 +1,25 @@
+<annotation>
+	<folder></folder>
+	<filename>gato 3.PNG</filename>
+	<path>//gato 3.PNG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1174</width>
+		<height>858</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>gato</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>95</ymin>
+			<xmax>848</xmax>
+			<ymax>858</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,25 @@
+<annotation>
+	<folder></folder>
+	<filename>perro 8.PNG</filename>
+	<path>//perro 8.PNG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1287</width>
+		<height>926</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>perro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>165</xmin>
+			<ymin>80</ymin>
+			<xmax>807</xmax>
+			<ymax>926</ymax>
+		</bndbox>
+	</object>
+</annotation>
