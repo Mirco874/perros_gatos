@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
 	<filename>gato 3.PNG</filename>
-	<path>//gato 3.PNG</path>
+	<path>./gato 3.PNG</path>
 	<source>
 		<database>Unspecified</database>
 	</source>

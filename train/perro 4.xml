@@ -1,7 +1,7 @@
 <annotation>
 	<folder></folder>
 	<filename>perro 4.PNG</filename>
-	<path>//perro 4.PNG</path>
+	<path>./perro 4.PNG</path>
 	<source>
 		<database>Unspecified</database>
 	</source>
